@@ -30,5 +30,4 @@
   },
   "license": "MIT",
   "description": "This is a work in progress IMAP client for node.js."
-  }
 }
